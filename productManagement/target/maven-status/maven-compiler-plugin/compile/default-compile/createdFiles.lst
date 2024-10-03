@@ -1,0 +1,7 @@
+crudeoperation\productManagement\errornotfound\ResourceNotFoundException.class
+crudeoperation\productManagement\repository\ProductRepository.class
+crudeoperation\productManagement\controller\ProductController.class
+crudeoperation\productManagement\pojo\Product.class
+crudeoperation\productManagement\service\ProductService.class
+crudeoperation\productManagement\exception\GlobalExceptionHandler.class
+crudeoperation\productManagement\ProductManagementApplication.class
